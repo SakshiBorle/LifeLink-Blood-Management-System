@@ -30,7 +30,6 @@ LifeLink is a web-based Blood Donation and Inventory Management System developed
 - MySQL
 - HTML
 - CSS
-- Bootstrap
 - Apache Tomcat
 - Eclipse IDE
 
